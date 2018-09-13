@@ -1,0 +1,2 @@
+1.09-13 使用git bash工具和命令git clone克隆了再远端创建的learning-flamingo库项目，之后新建本文档，用来记录相关操作。
+2.以后只需要将我的代码放到库对应的文件夹中，然后使用git add、git commit -m "  "、git push origin master等步骤就可以提交到远端。
